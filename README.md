@@ -4,7 +4,7 @@ I’m currently building Web Apps that address some need.
 When I'm not working on my projects, I tinker with my existing workflows and automate them. 
 
 
-- 📖 EE Student (Pre-Final Year) @IIT Gandhinagar. 
+- 📖 B.Tech. in Electrical Engineering @IIT Gandhinagar. 
 - 🌱 I'm learning to build apps that can scale. 
 - ⚡ Fun fact: I blog about my life, and suggest people good music to listen to.
 
